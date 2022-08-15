@@ -21,7 +21,7 @@ The shortest path problem with time windows aims to determine the shortest path 
 
 #### Example
 
-![SPPTW](C:\Users\dell\Desktop\研究生\个人算法主页\The labeling algorithm for the shortest path problem with time windows\SPPTW.png)
+![](https://github.com/Xavier-MaYiMing/The-labeling-algorithm-for-the-shortest-path-problem-with-time-windows/blob/main/SPPTW.png)
 
 The red number associated with each arc is the cost, and the green number is the transit time. The time windows associated with each node are listed in the right.
 
